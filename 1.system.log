@@ -1,0 +1,20 @@
+2025-08-06 09:15:23 INFO: System startup initiated
+2025-08-06 09:15:24 INFO: Loading kernel modules
+2025-08-06 09:15:25 INFO: Network interface eth0 up
+2025-08-06 09:15:26 WARN: High memory usage detected (85%)
+2025-08-06 09:15:27 INFO: Database connection established
+2025-08-06 09:15:28 ERROR: Failed to connect to external API
+2025-08-06 09:15:29 INFO: Retrying API connection
+2025-08-06 09:15:30 INFO: API connection successful
+2025-08-06 09:15:31 DEBUG: Processing user request ID: 12345
+2025-08-06 09:15:32 INFO: User authentication successful
+2025-08-06 09:15:33 WARN: Disk space low on /var partition (90% full)
+2025-08-06 09:15:34 ERROR: Database query timeout
+2025-08-06 09:15:35 INFO: Backup process started
+2025-08-06 09:15:36 INFO: Backup completed successfully
+2025-08-06 09:15:37 CRITICAL: Security breach detected from IP 192.168.1.100
+2025-08-06 09:15:38 INFO: IP 192.168.1.100 blocked
+2025-08-06 09:15:39 INFO: System health check passed
+2025-08-06 09:15:40 WARN: CPU temperature high (75°C)
+2025-08-06 09:15:41 INFO: Cooling system activated
+2025-08-06 09:15:42 INFO: Temperature normalized (65°C)
