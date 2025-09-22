@@ -1,0 +1,11 @@
+echo "#!/bin/bash" > myapp-1.0.0/myapp
+echo "echo 'MyApp v1.0.0'" >> myapp-1.0.0/myapp
+chmod +x myapp-1.0.0/myapp
+
+echo "#!/bin/bash" > myapp-1.1.0/myapp
+echo "echo 'MyApp v1.1.0 with fixes'" >> myapp-1.1.0/myapp
+chmod +x myapp-1.1.0/myapp
+
+echo "#!/bin/bash" > myapp-2.0.0/myapp
+echo "echo 'MyApp v2.0.0 - major release'" >> myapp-2.0.0/myapp
+chmod +x myapp-2.0.0/myapp
